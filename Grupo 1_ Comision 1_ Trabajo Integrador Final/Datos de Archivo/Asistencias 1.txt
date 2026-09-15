@@ -1,0 +1,199 @@
+Registro 1
+
+Nombre y Apellido: Carlos Mendoza
+
+DNI: 32445566
+
+Fecha/Hora Entrada: 1 7 2026 8 0
+
+Fecha/Hora Salida: 1 7 2026 17 5
+
+Registro 2
+
+Nombre y Apellido: Ana Silva
+
+DNI: 35112233
+
+Fecha/Hora Entrada: 1 7 2026 8 55
+
+Fecha/Hora Salida: 1 7 2026 18 2
+
+Registro 3
+
+Nombre y Apellido: Juan Perez
+
+DNI: 28449911
+
+Fecha/Hora Entrada: 2 7 2026 7 50
+
+Fecha/Hora Salida: 2 7 2026 16 10
+
+Registro 4
+
+Nombre y Apellido: Maria Gomez
+
+DNI: 40123456
+
+Fecha/Hora Entrada: 3 7 2026 8 30
+
+Fecha/Hora Salida: 3 7 2026 16 30
+
+Registro 5
+
+Nombre y Apellido: Luis Rodriguez
+
+DNI: 33556677
+
+Fecha/Hora Entrada: 6 7 2026 13 58
+
+Fecha/Hora Salida: 6 7 2026 22 0
+
+Registro 6
+
+Nombre y Apellido: Laura Fernandez
+
+DNI: 36778899
+
+Fecha/Hora Entrada: 7 7 2026 6 52
+
+Fecha/Hora Salida: 7 7 2026 15 1
+
+Registro 7
+
+Nombre y Apellido: Pedro Sanchez
+
+DNI: 25889900
+
+Fecha/Hora Entrada: 8 7 2026 8 0
+
+Fecha/Hora Salida: 8 7 2026 17 15
+
+Registro 8
+
+Nombre y Apellido: Sofia Diaz
+
+DNI: 41990011
+
+Fecha/Hora Entrada: 9 7 2026 9 3
+
+Fecha/Hora Salida: 9 7 2026 18 0
+
+Registro 9
+
+Nombre y Apellido: Miguel Torres
+
+DNI: 34001122
+
+Fecha/Hora Entrada: 10 7 2026 7 55
+
+Fecha/Hora Salida: 10 7 2026 17 0
+
+Registro 10
+
+Nombre y Apellido: Elena Ramirez
+
+DNI: 37345678
+
+Fecha/Hora Entrada: 13 7 2026 9 15
+
+Fecha/Hora Salida: 13 7 2026 17 0
+
+Registro 11
+
+Nombre y Apellido: Jorge Benitez
+
+DNI: 31456789
+
+Fecha/Hora Entrada: 14 7 2026 8 0
+
+Fecha/Hora Salida: 14 7 2026 16 5
+
+Registro 12
+
+Nombre y Apellido: Lucia Castro
+
+DNI: 39567890
+
+Fecha/Hora Entrada: 15 7 2026 8 22
+
+Fecha/Hora Salida: 15 7 2026 17 30
+
+Registro 13
+
+Nombre y Apellido: Ricardo Morales
+
+DNI: 29678901
+
+Fecha/Hora Entrada: 16 7 2026 5 58
+
+Fecha/Hora Salida: 16 7 2026 14 0
+
+Registro 14
+
+Nombre y Apellido: Carmen Herrera
+
+DNI: 33789012
+
+Fecha/Hora Entrada: 17 7 2026 9 0
+
+Fecha/Hora Salida: 17 7 2026 18 0
+
+Registro 15
+
+Nombre y Apellido: Alejandro Flores
+
+DNI: 38890123
+
+Fecha/Hora Entrada: 20 7 2026 8 45
+
+Fecha/Hora Salida: 20 7 2026 18 15
+
+Registro 16
+
+Nombre y Apellido: Patricia Ruiz
+
+DNI: 35901234
+
+Fecha/Hora Entrada: 21 7 2026 8 0
+
+Fecha/Hora Salida: 21 7 2026 17 2
+
+Registro 17
+
+Nombre y Apellido: Roberto Rios
+
+DNI: 27012345
+
+Fecha/Hora Entrada: 22 7 2026 7 48
+
+Fecha/Hora Salida: 22 7 2026 16 0
+
+Registro 18
+
+Nombre y Apellido: Gabriela Vega
+
+DNI: 42123456
+
+Fecha/Hora Entrada: 23 7 2026 9 0
+
+Fecha/Hora Salida: 23 7 2026 18 0
+
+Registro 19
+
+Nombre y Apellido: Fernando Alvarez
+
+DNI: 32234567
+
+Fecha/Hora Entrada: 24 7 2026 8 57
+
+Fecha/Hora Salida: 24 7 2026 17 0
+
+Registro 20
+
+Nombre y Apellido: Rosa Martinez
+
+DNI: 43579246
+
+Fecha/Hora Entrada: 27 7 2026 8 0
+
+Fecha/Hora Salida: 27 7 2026 16 0

@@ -1,0 +1,320 @@
+Empleado 1
+
+Nombre y Apellido: Carlos Mendoza
+
+DNI: 32445566
+
+Fecha de nacimiento: 12 4 1983
+
+Sexo (F/M): M
+
+Fecha de ingreso: 1 3 2010
+
+Función en la Empresa: Gerente de Ventas
+
+Horario laboral: 08:00 a 17:00
+
+Empleado 2
+
+Nombre y Apellido: Ana Silva
+
+DNI: 35112233
+
+Fecha de nacimiento: 25 8 1988
+
+Sexo (F/M): F
+
+Fecha de ingreso: 15 6 2015
+
+Función en la Empresa: Analista de Sistemas
+
+Horario laboral: 09:00 a 18:00
+
+Empleado 3
+
+Nombre y Apellido: Juan Perez
+
+DNI: 28449911
+
+Fecha de nacimiento: 5 11 1979
+
+Sexo (F/M): M
+
+Fecha de ingreso: 10 1 2005
+
+Función en la Empresa: Supervisor de Planta
+
+Horario laboral: 08:00 a 16:00
+
+Empleado 4
+
+Nombre y Apellido: Maria Gomez
+
+DNI: 40123456
+
+Fecha de nacimiento: 14 2 1995
+
+Sexo (F/M): F
+
+Fecha de ingreso: 22 3 2018
+
+Función en la Empresa: Contadora
+
+Horario laboral: 08:30 a 16:30
+
+Empleado 5
+
+Nombre y Apellido: Luis Rodriguez
+
+DNI: 33556677
+
+Fecha de nacimiento: 30 9 1984
+
+Sexo (F/M): M
+
+Fecha de ingreso: 5 11 2012
+
+Función en la Empresa: Soporte Tecnico
+
+Horario laboral: 14:00 a 22:00
+
+Empleado 6
+
+Nombre y Apellido: Laura Fernandez
+
+DNI: 36778899
+
+Fecha de nacimiento: 18 1 1990
+
+Sexo (F/M): F
+
+Fecha de ingreso: 1 8 2014
+
+Función en la Empresa: Recepcionista
+
+Horario laboral: 07:00 a 15:00
+
+Empleado 7
+
+Nombre y Apellido: Pedro Sanchez
+
+DNI: 25889900
+
+Fecha de nacimiento: 3 6 1975
+
+Sexo (F/M): M
+
+Fecha de ingreso: 12 5 2000
+
+Función en la Empresa: Director de IT
+
+Horario laboral: 08:00 a 17:00
+
+Empleado 8
+
+Nombre y Apellido: Sofia Diaz-modificar
+
+DNI: 41990011
+
+Fecha de nacimiento: 27 7 1997
+
+Sexo (F/M): F
+
+Fecha de ingreso: 2 5 2021
+
+Función en la Empresa: Disenadora Grafica-modifcar
+
+
+Horario laboral: 09:00 a 18:00
+
+Empleado 9
+
+Nombre y Apellido: Miguel Torres
+
+DNI: 34001122
+
+Fecha de nacimiento: 9 3 1986
+
+Sexo (F/M): M
+
+Fecha de ingreso: 19 10 2011
+
+Función en la Empresa: Desarrollador Web
+
+Horario laboral: 08:00 a 17:00
+
+Empleado 10
+
+Nombre y Apellido: Elena Ramirez
+
+DNI: 37345678
+
+Fecha de nacimiento: 21 12 1991
+
+Sexo (F/M): F
+
+Fecha de ingreso: 1 9 2016
+
+Función en la Empresa: Recursos Humanos
+
+Horario laboral: 09:00 a 17:00
+
+Empleado 11
+
+Nombre y Apellido: Jorge Benitez
+
+DNI: 31456789
+
+Fecha de nacimiento: 15 5 1982
+
+Sexo (F/M): M
+
+Fecha de ingreso: 15 7 2013
+
+Función en la Empresa: Administrador
+
+Horario laboral: 08:00 a 16:00
+
+Empleado 12
+
+Nombre y Apellido: Lucia Castro
+
+DNI: 39567890
+
+Fecha de nacimiento: 8 10 1994
+
+Sexo (F/M): F
+
+Fecha de ingreso: 10 4 2019
+
+Función en la Empresa: Asistente Legal
+
+Horario laboral: 08:30 a 17:30
+
+Empleado 13
+
+Nombre y Apellido: Ricardo Morales
+
+DNI: 29678901
+
+Fecha de nacimiento: 22 8 1980
+
+Sexo (F/M): M
+
+Fecha de ingreso: 1 12 2008
+
+Función en la Empresa: Jefe de Almacen
+
+Horario laboral: 06:00 a 14:00
+
+Empleado 14
+
+Nombre y Apellido: Carmen Herrera
+
+DNI: 33789012
+
+Fecha de nacimiento: 14 4 1985
+
+Sexo (F/M): F
+
+Fecha de ingreso: 1 3 2011
+
+Función en la Empresa: Auditora Interna
+
+Horario laboral: 09:00 a 18:00
+
+Empleado 15
+
+Nombre y Apellido: Alejandro Flores
+
+DNI: 38890123
+
+Fecha de nacimiento: 17 12 1993
+
+Sexo (F/M): M
+
+Fecha de ingreso: 16 8 2017
+
+Función en la Empresa: Programador Senior
+
+Horario laboral: 09:00 a 18:00
+
+Empleado 16
+
+Nombre y Apellido: Patricia Ruiz
+
+DNI: 35901234
+
+Fecha de nacimiento: 4 5 1989
+
+Sexo (F/M): F
+
+Fecha de ingreso: 1 6 2015
+
+Función en la Empresa: Especialista SEO
+
+Horario laboral: 08:00 a 17:00
+
+Empleado 17
+
+Nombre y Apellido: Roberto Rios
+
+DNI: 27012345
+
+Fecha de nacimiento: 19 7 1978
+
+Sexo (F/M): M
+
+Fecha de ingreso: 22 10 2006
+
+Función en la Empresa: Encargado Logistica
+
+Horario laboral: 08:00 a 16:00
+
+Empleado 18
+
+Nombre y Apellido: Gabriela Vega
+
+DNI: 42123456
+
+Fecha de nacimiento: 26 2 1998
+
+Sexo (F/M): F
+
+Fecha de ingreso: 1 11 2022
+
+Función en la Empresa: Asistente Marketing
+
+Horario laboral: 09:00 a 18:00
+
+Empleado 19
+
+Nombre y Apellido: Fernando Alvarez
+
+DNI: 32234567
+
+Fecha de nacimiento: 13 11 1981
+
+Sexo (F/M): M
+
+Fecha de ingreso: 5 5 2014
+
+Función en la Empresa: Analista Financiero
+
+Horario laboral: 09:00 a 17:00
+
+Empleado 20
+
+Nombre y Apellido: Rosa Martinez
+
+DNI: 43579246
+
+Fecha de nacimiento: 2 1 1999
+
+Sexo (F/M): F
+
+Fecha de ingreso: 15 1 2023
+
+Función en la Empresa: Secretaria Ejecutiva
+
+Horario laboral: 08:00 a 16:00
